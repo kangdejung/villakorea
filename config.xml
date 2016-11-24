@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.dungzi.villakorea" version="1" android-versionCode="1" xmlns="http://www.w3.org/ns/widgets"  xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>좋은집 구하기 연구소</name>
+    <name>좋은집구하기연구소</name>
     <description>	
         신축빌라분양,임대,매매,부동산앱
     </description>
@@ -11,10 +11,10 @@
 	<preference name="SplashScreenDelay" value="10000" />
 	<preference name="android-minSdkVersion" value="15" />
 	<preference name="fullscreen" value="true" />
-
+	
 	<gap:plugin name="cordova-plugin-whitelist" source="npm" />
 	<gap:plugin name="cordova-plugin-inappbrowser" source="npm"  />
-
+	
 	<allow-navigation href="http://villakorea.dungzi.com/*" />
 	<icon src="icon.png" />
 	<content src="index.html" />

@@ -11,9 +11,10 @@
 	<preference name="SplashScreenDelay" value="10000" />
 	<preference name="android-minSdkVersion" value="15" />
 	<preference name="fullscreen" value="true" />
-	<preference name="loadUrlTimeoutValue" value="70000"/>
+
 	<gap:plugin name="cordova-plugin-whitelist" source="npm" />
 	<gap:plugin name="cordova-plugin-inappbrowser" source="npm"  />
+
 	<allow-navigation href="http://villakorea.dungzi.com/*" />
 	<icon src="icon.png" />
 	<content src="index.html" />

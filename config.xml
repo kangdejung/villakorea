@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.dungzi.villakorea" version="2" android-versionCode="2" xmlns="http://www.w3.org/ns/widgets"  xmlns:gap="http://phonegap.com/ns/1.0">
+<widget id="com.dungzi.villakorea" version="3" android-versionCode="3" xmlns="http://www.w3.org/ns/widgets"  xmlns:gap="http://phonegap.com/ns/1.0">
     <name>좋은집구하기연구소</name>
     <description>	
         신축빌라분양,임대,매매,부동산앱
